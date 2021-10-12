@@ -12,7 +12,7 @@ sources:
     type: vector
     minzoom: 8
     url: https://tileserver.geolonia.com/v2/tiles.json?key=YOUR-API-KEY
-sprite: https://raw.githubusercontent.com/geolonia/sprites.geolonia.com/add-color-icons/public/color
+sprite: https://raw.githubusercontent.com/geolonia/sprites.geolonia.com/add-color-icons/public/basic-color
 glyphs: https://glyphs.geolonia.com/{fontstack}/{range}.pbf
 layers:
   - !!inc/file layers/background.yml
